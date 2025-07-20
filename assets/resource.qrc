@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Home">
+    <file>previous1.png</file>
+    <file>next1.png</file>
+    <file>Close.svg</file>
+  </qresource>
+</RCC>
